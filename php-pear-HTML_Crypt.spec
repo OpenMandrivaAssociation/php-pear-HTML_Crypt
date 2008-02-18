@@ -3,7 +3,7 @@
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 
-Summary:	%{_pearname} - Encrypts text which is later decoded using javascript on the client side
+Summary:	Encrypts text which is later decoded using javascript on the client side
 Name:		php-pear-%{_pearname}
 Version:	1.3.2
 Release:	%mkrel 1
