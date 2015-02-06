@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.4
-Release:	4
+Release:	5
 Summary:	Encrypts text which is later decoded using javascript on the client side
 License:	PHP License
 Group:		Development/PHP
